@@ -1,0 +1,14 @@
+h2.intro {
+  font-family: sans-serif;
+  font-style: italic;
+  color: #ff0000;
+}
+
+p.intro {
+  font-family: sans-serif;
+}
+
+img.intro {
+  margin: auto;
+  display: block;
+}
